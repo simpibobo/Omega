@@ -3,7 +3,7 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
+ firebaseConfig = {
   apiKey: "api-key",
   authDomain: "project-id.firebaseapp.com",
   databaseURL: "https://project-id.firebaseio.com",
