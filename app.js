@@ -3,7 +3,7 @@
 
 ///Edit Under This only
 
-var const firebaseConfig = {
+ const firebaseConfig = {
   apiKey: "AIzaSyBoxep75vpcltm4gEngn55rtGLiKjX3jKk",
   authDomain: "test123-16d34.firebaseapp.com",
   databaseURL: "https://test123-16d34.firebaseio.com",
@@ -13,7 +13,7 @@ var const firebaseConfig = {
   appId: "1:579375515106:web:56c81fc88a82d8b8aea5bb",
   measurementId: "G-27P71J0GEP"
 };
-};
+
 
      
  
